@@ -1,0 +1,6 @@
+{
+  "name": "HUL SalesEdge - FMCG Sales Force Automation & Market Execution",
+  "description": "Enterprise field sales execution platform modeled after Hindustan Unilever's SalesEdge. Featuring daily beat & PJP routing, retailer & wholesale order capture with QPS and slab trade schemes, Envision shelf audit, payment collections, and real-time DSR incentive dashboards with offline sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
